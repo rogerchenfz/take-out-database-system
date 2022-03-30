@@ -1,8 +1,8 @@
 # 外卖订单信息管理系统
 
-项目代码见 [code.sql](https://github.com/rogerchenfz/take-out-database-system/blob/master/code.sql)
+项目代码见 [code.sql](https://github.com/rogerchenfz/take-out-database-system/blob/main/code.sql)
 
-报告目录见 [Report.md](https://github.com/rogerchenfz/take-out-database-system/blob/master/Report.md)，内容包括设计目的、需求分析（用户需求分析、系统功能分析、数据字典）、概念结构设计（实体属性图、实体联系图、管理系统的E-R图）、逻辑结构设计（基本思想、关系模式）、数据库实施（创建数据库、创建表、创建触发器、数据插入与更新、创建索引、创建视图、创建存储过程、创建管理员）
+报告目录见 [Report.md](https://github.com/rogerchenfz/take-out-database-system/blob/main/Report.md)，内容包括设计目的、需求分析（用户需求分析、系统功能分析、数据字典）、概念结构设计（实体属性图、实体联系图、管理系统的E-R图）、逻辑结构设计（基本思想、关系模式）、数据库实施（创建数据库、创建表、创建触发器、数据插入与更新、创建索引、创建视图、创建存储过程、创建管理员）
 
 ## 需求分析
 
